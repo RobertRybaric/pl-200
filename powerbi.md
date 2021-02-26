@@ -4,9 +4,13 @@
 
 ### Overview
 
+------------
+
 In this exercise you will create a Power BI analytics for the Knowledge Assessment solution. The Power BI dashboard will be embedded into the Knowledge Admin model-driven app.
 
 ### Prerequisites
+
+------------
 
 In order to create a Power BI solution, following prerequisites must exist:
 
@@ -14,6 +18,8 @@ In order to create a Power BI solution, following prerequisites must exist:
 - Power BI Desktop tool must be installed on the local PC
 
 ### Exercise 1: Setup environment
+
+------------
 
 #### Task 1: Install Power BI Desktop / Prepare Power BI service
 
@@ -23,6 +29,8 @@ In order to create a Power BI solution, following prerequisites must exist:
 4. Enter a name for the workspace similar to your environment name **[my initials] Practice**. (Example: AJ Practice.) and click **Save**.
 
 ### Exercise 2: Create a data model and visualisations
+
+------------
 
 #### Task 1: Connect to the Power Platform
 
@@ -103,6 +111,8 @@ according to the following screenshot:
 
 ### Exercise 3: Deploy the Power BI report
 
+------------
+
 #### Task 1: Save the report
 
 1. In Power BI Desktop navigate to **File > Save As**
@@ -126,6 +136,8 @@ according to the following screenshot:
 8. Close the Power BI Desktop.
 
 ### Exercise 4: Create a Power BI dashboard
+
+------------
 
 #### Task 1: Create the dashboard
 
@@ -154,6 +166,8 @@ according to the following screenshot:
 8. Close the Power BI service.
 
 ### Exercise 5: Add the Power BI dashboard to the model-driven app
+
+------------
 
 #### Task 1: Enable Power BI embedding
 
