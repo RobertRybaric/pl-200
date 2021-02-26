@@ -17,8 +17,8 @@ In order to create a Power BI solution, following prerequisites must exist:
 
 #### Task 1: Install Power BI Desktop / Prepare Power BI service
 
-1. Navigate to https://aka.ms/pbidesktopstore to download and install Power BI Desktop.
-2. Navigate to https://app.powerbi.com/ and click **Sign in**.
+1. Navigate to <https://aka.ms/pbidesktopstore> to download and install Power BI Desktop.
+2. Navigate to <https://app.powerbi.com/> and click **Sign in**.
 3. Scroll down the main section of the web page and click **My Workspace** towards the bottom of the screen. Or expand Workspaces in the navigation and select **Create a workspace**.
 4. Enter a name for the workspace similar to your environment name **[my initials] Practice**. (Example: AJ Practice.) and click **Save**.
 
@@ -153,12 +153,11 @@ according to the following screenshot:
 
 8. Close the Power BI service.
 
-
 ### Exercise 5: Add the Power BI dashboard to the model-driven app
 
 #### Task 1: Enable Power BI embedding
 
-1. Navigate to the Power Platform Admin Center https://admin.powerplatform.microsoft.com/
+1. Navigate to the Power Platform Admin Center <https://admin.powerplatform.microsoft.com/>
 2. Select your environment and go to **Settings**
 3. Select the **Features** setting
 4. In the settings area **Embedded content**, enable the **Power BI visualization embedding**, according to the following screenshot:
