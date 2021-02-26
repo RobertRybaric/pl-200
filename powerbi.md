@@ -179,6 +179,6 @@ according to the following screenshot:
 
 5. The Power BI dashboard is now embedded in the model-driven app in the group **My dashboard**, according to the following screenshot:
 
-    ![Picture 22](images/image022.PNG)
+    ![Picture 23](images/image023.PNG)
 
 ## End of the Power BI Hands-On Lab
