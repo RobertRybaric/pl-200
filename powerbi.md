@@ -4,13 +4,13 @@
 
 ### Overview
 
-------------
+--------------
 
 In this exercise you will create a Power BI analytics for the Knowledge Assessment solution. The Power BI dashboard will be embedded into the Knowledge Admin model-driven app.
 
 ### Prerequisites
 
-------------
+--------------
 
 In order to create a Power BI solution, following prerequisites must exist:
 
@@ -19,7 +19,7 @@ In order to create a Power BI solution, following prerequisites must exist:
 
 ### Exercise 1: Setup environment
 
-------------
+--------------
 
 #### Task 1: Install Power BI Desktop / Prepare Power BI service
 
@@ -31,9 +31,9 @@ In order to create a Power BI solution, following prerequisites must exist:
 
 4. Enter a name for the workspace similar to your environment name **[my initials] Practice**. (Example: AJ Practice.) and click **Save**.
 
-### Exercise 2: Create a data model and visualisations
+### Exercise 2: Create a data model and visualizations
 
-------------
+--------------
 
 #### Task 1: Connect to the Power Platform
 
@@ -93,7 +93,7 @@ according to the following screenshot:
 
     ![Picture 6](images/image006.PNG)
 
-4. Drag and drop the **Stacked column chart** from the **Visualisations** pane to the working canvas
+4. Drag and drop the **Stacked column chart** from the **Visualizations** pane to the working canvas
 
 5. Locate the previously renamed fields "Name" and "Total Points" and drag and drop them to the "Axis" and "Values" parameters of the chart according to the following screenshot:
 
@@ -103,7 +103,7 @@ according to the following screenshot:
 
     ![Picture 8](images/image008.PNG)
 
-7. While having the visualisation selected, change the visualisation type to **Pie chart**. The result will look like the following example screenshot:
+7. While having the visualization selected, change the visualization type to **Pie chart**. The result will look like the following example screenshot:
 
     ![Picture 9](images/image009.PNG)
 
@@ -113,7 +113,7 @@ according to the following screenshot:
 
     ![Picture 10](images/image010.PNG)
 
-2. Locate the **Stacked bar chart** on the **Visualisations** pane and drag it below the first chart.
+2. Locate the **Stacked bar chart** on the **Visualizations** pane and drag it below the first chart.
 
 3. Locate the previously renamed fields "Question" and "Question Points" and drag and drop them to the "Axis" and "Values" parameters of the chart according to the following screenshot:
 
@@ -125,13 +125,13 @@ according to the following screenshot:
 
 ### Exercise 3: Deploy the Power BI report
 
-------------
+--------------
 
 #### Task 1: Save the report
 
 1. In Power BI Desktop navigate to **File > Save As**
 
-2. Give the report the name **Knowledge Analytics** and save the file on you local comupter.
+2. Give the report the name **Knowledge Analytics** and save the file on you local computer.
 
 #### Task 2: Publish the report
 
@@ -157,7 +157,7 @@ according to the following screenshot:
 
 ### Exercise 4: Create a Power BI dashboard
 
-------------
+--------------
 
 #### Task 1: Create the dashboard
 
@@ -167,11 +167,11 @@ according to the following screenshot:
 
     ![Picture 15](images/image015.PNG)
 
-3. In the **Pin to dasboard** dialogue, select the option **New Dashboard** and give the dashboard a name "Knowledge Analytics", according to the following screenshot:
+3. In the **Pin to dashboard** dialogue, select the option **New Dashboard** and give the dashboard a name "Knowledge Analytics", according to the following screenshot:
 
     ![Picture 16](images/image016.PNG)
 
-4. Repeat the same procedure with the second visualization, however in the **Pin to dasboard** dialog, select the just created **Existing dashboard** -> **Knowledge Analytics**.
+4. Repeat the same procedure with the second visualization, however in the **Pin to dashboard** dialog, select the just created **Existing dashboard** -> **Knowledge Analytics**.
 
 5. Navigate to the newly created **Knowledge Analytics** dashboard. The result should be similar to the following screenshot:
 
@@ -189,7 +189,7 @@ according to the following screenshot:
 
 ### Exercise 5: Add the Power BI dashboard to the model-driven app
 
-------------
+--------------
 
 #### Task 1: Enable Power BI embedding
 
